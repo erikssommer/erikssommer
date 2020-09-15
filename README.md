@@ -16,7 +16,7 @@ Some social medias
 
 <br /><br />
 
-**Talking about Personal Stuffs:**
+**Talking about personal stuff:**
 - 🔭 I’m currently working on life  
 - 🌱 I’m currently learning algorithms and data structures in Java
 - 📫 How to reach me: eriksommer99@gmail.com || s341870@oslomet.no
