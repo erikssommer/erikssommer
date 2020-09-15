@@ -24,5 +24,3 @@ Some social medias
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ErikSommer99&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </details>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ErikSommer99)
