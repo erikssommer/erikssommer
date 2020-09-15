@@ -9,7 +9,8 @@ Some social medias
 <a href="https://www.linkedin.com/in/erik-storås-sommer-24b89a1a2/">
   <img align="left" alt="Erik Sommer´s LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
+
+
 - 🔭 I’m currently working on life  
 - 🌱 I’m currently learning algorithms and data structures in Java
 - 📫 How to reach me: eriksommer99@gmail.com || s341870@oslomet.no
