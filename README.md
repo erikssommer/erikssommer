@@ -12,6 +12,7 @@ Some social medias
 
 <br />
 
+
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on life  
 - 🌱 I’m currently learning algorithms and data structures in Java
