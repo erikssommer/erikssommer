@@ -10,6 +10,10 @@ Some social medias
   <img align="left" alt="Erik Sommer´s LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://www.strava.com/athletes/11576675/">
+  <img align="left" alt="Erik Sommer´s Strava" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" />
+</a>
+
 <br /><br />
 
 **Talking about Personal Stuffs:**
