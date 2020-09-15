@@ -10,8 +10,7 @@ Some social medias
   <img align="left" alt="Erik Sommer´s LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br />
-
+<br /><br />
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on life  
