@@ -22,9 +22,3 @@ Some social medias
 - 📫 How to reach me: eriksommer99@gmail.com || s341870@oslomet.no
 - 👨‍💻 I work as a teacher assistant in programming at Oslo Metropolitan University
 - ⚡ Fun fact: I drive a Jaguar
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ErikSommer99&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-</details>
