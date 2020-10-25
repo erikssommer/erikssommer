@@ -40,7 +40,7 @@ Some social medias
 <a href="https://git-scm.com">
     <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 </a>
-<a href="https://se.mathworks.com/products/matlab.html">
+<a href="https://github.com/ErikSommer99/MatlabNumMet">
     <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mathworks.svg" />
 </a>
 <a href="https://github.com/KristianSorum/FinalProject">
