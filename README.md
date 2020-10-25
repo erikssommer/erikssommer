@@ -3,15 +3,15 @@
 Some social medias
 
 <a href="https://www.instagram.com/erik_sommer/">
-  <img align="left" alt="Erik Sommer´s Instagram" width="22px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
+  <img align="left" alt="Erik Sommer´s Instagram" width="45px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/erik-storås-sommer-24b89a1a2/">
-  <img align="left" alt="Erik Sommer´s LinkdeIN" width="22px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+  <img align="left" alt="Erik Sommer´s LinkdeIN" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
 
 <a href="https://www.strava.com/athletes/11576675/">
-  <img align="left" alt="Erik Sommer´s Strava" width="22px" src="https://img.icons8.com/ios/100/000000/strava.png" />
+  <img align="left" alt="Erik Sommer´s Strava" width="45px" src="https://img.icons8.com/ios/100/000000/strava.png" />
 </a>
 
 <br /><br />
