@@ -21,7 +21,6 @@ Some social medias
 - 🌱 I’m currently learning algorithms and data structures in Java
 - 📫 How to reach me: eriksommer99@gmail.com || s341870@oslomet.no
 - 👨‍💻 I work as a teacher assistant in programming at Oslo Metropolitan University
-- ⚡ Fun fact: I drive a Jaguar
 
 **Tools & Languages**
 
