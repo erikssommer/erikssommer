@@ -6,7 +6,7 @@ Some social medias
   <img align="left" alt="Erik Sommer´s Instagram" width="45px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/erik-storås-sommer-24b89a1a2/">
+<a href="https://https://www.linkedin.com/in/erikssommer/">
   <img align="left" alt="Erik Sommer´s LinkdeIN" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
 
