@@ -16,11 +16,10 @@ Some social medias
 
 <br /><br />
 
-**Talking about personal stuff:**
-- 🔭 I’m currently working on life  
-- 🌱 I’m currently learning algorithms and data structures in Java
+**Personal stuff:** 
+- 🍃 I’m currently working with Spring for backend web-development with java
 - 📫 How to reach me: eriksommer99@gmail.com || s341870@oslomet.no
-- 👨‍💻 I work as a teacher assistant in programming at Oslo Metropolitan University
+- 👨‍💻 I work as a teacher assistant in the class Web Programming at Oslo Metropolitan University
 
 **Tools & Languages**
 
