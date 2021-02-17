@@ -2,6 +2,7 @@
 
 **Personal stuff:** 
 - 🍃 I’m currently working with Spring for backend web-development with java
+- 💰 Using jQuery and Ajax for frontend development with Spring
 - 📫 How to reach me: erikssommer@gmail.com || s341870@oslomet.no
 - 👨‍💻 I work as a teacher assistant in the class [Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/HØST) at Oslo Metropolitan University
 
