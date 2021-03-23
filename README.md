@@ -50,6 +50,6 @@
 <a href="https://developer.apple.com/xcode/">
     <img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
 </a>
-<a href="https://developer.apple.com/swift/">
+<a href="https://github.com/erikssommer/SwiftPlayground">
     <img align="left" alt="Swift" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
 </a>
