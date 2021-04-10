@@ -29,6 +29,10 @@
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="Rest API" width="26px" src="https://img.icons8.com/color/48/000000/rest-api.png" />
 </a>
+<a href="https://www.jetbrains.com/pycharm/">
+    <img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
+</a>
+    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <a href="https://www.mysql.com">
     <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </a>
@@ -40,12 +44,6 @@
 </a>
 <a href="https://github.com/erikssommer/MatlabNumMet">
     <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mathworks.svg" />
-</a>
-<a href="https://www.jetbrains.com/pycharm/">
-    <img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-</a>
-<a href="https://github.com/erikssommer/LearningPython">
-    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 </a>
 <a href="https://developer.apple.com/xcode/">
     <img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
