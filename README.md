@@ -29,10 +29,10 @@
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="Rest API" width="26px" src="https://img.icons8.com/color/48/000000/rest-api.png" />
 </a>
+<img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <a href="https://www.jetbrains.com/pycharm/">
     <img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
 </a>
-    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <a href="https://www.mysql.com">
     <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </a>
