@@ -13,6 +13,9 @@
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
+
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 </a>
