@@ -3,7 +3,7 @@
 **Personal stuff:** 
 - ☁️ I am currently building RESTful Web APIs with Node.js, Express, MongoDB and JavaScript using Docker
 - 🍃 Learning Spring for backend web-development with Java
-- 👨‍💻 I work as a teacher assistant in the class [Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/HØST) at Oslo Metropolitan University
+- 👨‍💻 I work as a teacher assistant in the class [Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/HØST) at Oslo Metropolitan University
 - 📫 How to reach me: erikssommer@gmail.com || s341870@oslomet.no
 
 **Tools & Languages**
