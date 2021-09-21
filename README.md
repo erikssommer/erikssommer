@@ -59,9 +59,7 @@
 <a href="https://www.jetbrains.com/idea/">
     <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 </a>
-<a href="https://www.jetbrains.com/pycharm/">
-    <img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-</a>
+
 <a href="https://developer.apple.com/xcode/">
     <img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
 </a>
