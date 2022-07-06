@@ -5,7 +5,7 @@
 - 🤓 Diving deep into the world of differential equations
 - 👨‍💻 I work as a teacher assistant in the class [Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/HØST) at Oslo Metropolitan University
 - 👨‍🎓 Sopra Steria software engineer graduate autumn 2022
-- 📫 How to reach me: erikssommer@gmail.com || s341870@oslomet.no
+- 📫 How to reach me: erikssommer@gmail.com
 
 **Tools & Languages**
 
