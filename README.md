@@ -5,6 +5,7 @@
 - 🤓 Diving deep into the world of differential equations
 - 👨‍🎓 Sopra Steria software engineer summer intern
 - 📫 How to reach me: erikssommer@gmail.com
+- 📝 Bachelor thesis: <a href="https://bachelorgruppe-fremtind.github.io/oversikt/">here</a>
 
 **Tools & Languages**
 
