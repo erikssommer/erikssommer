@@ -1,7 +1,8 @@
 ### Hello there
 
 **Personal stuff:** 
-- 🎓 Master of Science in Software Engineering - Artificial Intelligence, NTNU Trondheim
+- 👨‍💻 Master of Science in Software Engineering - Artificial Intelligence, NTNU Trondheim, 2024
+- 🎓 Bachelor of Software Engineering, Oslo Metropolitan University, 2022
 - 🤓 Diving deep into the world of differential equations
 - 👨‍🎓 Sopra Steria software engineer summer intern
 - 📫 How to reach me: erikssommer@gmail.com
