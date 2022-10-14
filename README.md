@@ -25,6 +25,12 @@
     <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </a>
 
+<a href="https://github.com/erikssommer/web-applications-dotnet">
+    <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="28" height="28"/>
+
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
@@ -37,10 +43,6 @@
 </a>
 
 <img align="left" alt="Node" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-
-<a href="https://github.com/erikssommer/web-applications-dotnet">
-    <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</a>
 
 <a href="https://github.com/erikssommer/MatlabNumMet">
     <img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" />
