@@ -29,7 +29,7 @@
     <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="28" height="28"/>
+<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
 
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
