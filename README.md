@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/erikssommer/web-applications-dotnet">
-    <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </a>
 
 <img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
@@ -34,6 +34,8 @@
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
+
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />
 
 <a href="https://github.com/KristianSorum/FinalProject">
     <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
