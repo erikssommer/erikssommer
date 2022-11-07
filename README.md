@@ -37,7 +37,7 @@
     <img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
 </a>
 
-<a href="https://github.com/erikssommer/OppgLfWebProgV21">
+<a href="https://github.com/datamet/online-store">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 </a>
 
