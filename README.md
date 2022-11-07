@@ -29,11 +29,13 @@
 
 <img align="left" alt="Scala" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" />
 
-<a href="https://github.com/erikssommer/web-applications-dotnet">
+<a href="https://github.com/webappmet/boatline">
     <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </a>
 
-<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+<a href="https://github.com/webappmet/boatline"
+    <img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+</a>
 
 <a href="https://github.com/erikssommer/OppgLfWebProgV21">
     <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
