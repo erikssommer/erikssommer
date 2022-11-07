@@ -33,7 +33,7 @@
     <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </a>
 
-<a href="https://github.com/webappmet/boatline"
+<a href="https://github.com/webappmet/boatline">
     <img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
 </a>
 
