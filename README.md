@@ -46,13 +46,18 @@
 <a href="https://github.com/KristianSorum/FinalProject">
     <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 </a>
+
 <a href="https://github.com/KristianSorum/FinalProject">
     <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
 </a>
 
-<img align="left" alt="Node" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<a href="https://github.com/datamet/online-store">
+    <img align="left" alt="Node" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+</a>
+    
+<a href="https://github.com/webappmet/boatline">
+    <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</a>
 
 <a href="https://github.com/erikssommer/MatlabNumMet">
     <img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" />
@@ -62,6 +67,9 @@
     <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 </a>
 
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-
-<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
+<a href="https://github.com/datamet/online-store">
+    <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+</a>
+<a href="https://github.com/erikssommer/operating-systems">
+    <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
+</a>
