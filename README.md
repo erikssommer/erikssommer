@@ -15,7 +15,9 @@
     <img align="left" alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 </a>
 
-<img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<a href="https://github.com/erikssommer/intro-ai">
+    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+</a>
 
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
     <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -25,7 +27,9 @@
     <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </a>
 
-<img align="left" alt="Scala" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" />
+<a href="https://github.com/erikssommer/intro-scala">
+    <img align="left" alt="Scala" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" />
+</a>
 
 <a href="https://github.com/webappmet/boatline">
     <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
