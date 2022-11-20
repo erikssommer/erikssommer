@@ -65,8 +65,8 @@
     <img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" />
 </a>
 
-<a href="https://github.com/erikssommer/cpmputer-graphics">
-    <img align="left" alt="Matlab" width="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"/>
+<a href="https://github.com/erikssommer/visual-computing-fundamentals">
+    <img align="left" alt="Rust" width="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"/>
 </a>
 
 <a href="https://git-scm.com">
