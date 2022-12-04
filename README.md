@@ -27,7 +27,7 @@
     <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </a>
 
-<a href="https://github.com/erikssommer/intro-scala">
+<a href="https://github.com/erikssommer/real-time-banking-transaction-system">
     <img align="left" alt="Scala" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" />
 </a>
 
