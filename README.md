@@ -52,10 +52,6 @@
 <a href="https://github.com/KristianSorum/FinalProject">
     <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
 </a>
-
-<a href="https://github.com/datamet/online-store">
-    <img align="left" alt="Node" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-</a>
     
 <a href="https://github.com/webappmet/boatline">
     <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
