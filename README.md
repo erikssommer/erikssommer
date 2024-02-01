@@ -14,6 +14,10 @@
     <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
 </a>
 
+<a href="https://github.com/erikssommer/ssl-autoencoder-mnist">
+    <img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+</a>
+
 <a href="https://github.com/erikssommer/jax-playground">
     <img align="left" alt="Jax" width="40px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" />
 </a>
