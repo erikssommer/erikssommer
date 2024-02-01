@@ -22,6 +22,10 @@
     <img align="left" alt="Jax" width="40px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" />
 </a>
 
+<a href="https://github.com/erikssommer/ai-methods">
+    <img align="left" alt="Numpy" width="26px" src="https://img.icons8.com/color/48/000000/numpy.png" />
+</a>
+
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
     <img align="left" alt="Pandas" width="26px" src="https://img.icons8.com/color/48/000000/pandas.png" />
 </a>
