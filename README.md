@@ -34,6 +34,14 @@
     <img align="left" alt="Pandas" width="26px" src="https://img.icons8.com/color/48/000000/pandas.png" />
 </a>
 
+<a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
+    <img align="left" alt="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
+</a>
+
+<a href="https://github.com/erikssommer/ai-programming">
+    <img align="left" alt="Matplotlib" width="26px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+</a>
+
 <a href="https://github.com/erikssommer/car-configuration-system">
     <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 </a>
