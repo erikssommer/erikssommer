@@ -50,14 +50,6 @@
     <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </a>
 
-<a href="https://github.com/webappmet/boatline">
-    <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-</a>
-
-<a href="https://github.com/erikssommer/MatlabNumMet">
-    <img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" />
-</a>
-
 <a href="https://git-scm.com">
     <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 </a>
