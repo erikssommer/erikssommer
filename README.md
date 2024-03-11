@@ -2,7 +2,6 @@
 - 👨‍💻 Master of Science in Computer Science - Artificial Intelligence, NTNU Trondheim, 2024
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2022
 - 📫 How to reach me: erik@storsom.com
-- 📝 Bachelor thesis website with documents: <a href="https://bachelorgruppe-fremtind.github.io/oversikt/">here</a>
 
 **Tools & Languages**
 
