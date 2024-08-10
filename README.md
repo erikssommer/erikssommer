@@ -1,5 +1,5 @@
 **Personal stuff:** 
-- 👨‍💻 Master of Science in Computer Science - Artificial Intelligence, NTNU Trondheim, 2024
+- 👨‍🎓 Master of Science in Computer Science - Artificial Intelligence, NTNU Trondheim, 2024
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2022
 - 📫 How to reach me: erikssommer@gmail.com
 
