@@ -1,4 +1,4 @@
-**Study stuff:** 
+**Study stuff** 
 - 👨‍🎓 Master of Science in Computer Science - Artificial Intelligence, NTNU Trondheim, 2024
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2022
 
