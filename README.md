@@ -1,4 +1,5 @@
-**Study stuff** 
+**About Me** 
+- 👨‍💻 Data Scientist consultant currently on a project at Aker BP ASA
 - 👨‍🎓 Master of Science in Computer Science - Artificial Intelligence, NTNU Trondheim, 2024
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2022
 
