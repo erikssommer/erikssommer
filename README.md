@@ -38,10 +38,6 @@
 </a>
 
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
-    <img align="left" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-
-<a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
     <img align="left" alt="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
 </a>
 
