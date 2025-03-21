@@ -38,11 +38,11 @@
 </a>
 
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
-    <img align="left" alt="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" />
+    <img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" />
 </a>
 
 <a href="https://github.com/erikssommer/ai-programming">
-    <img align="left" alt="Matplotlib" width="26px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+    <img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 </a>
 
 <a href="https://github.com/erikssommer/car-configuration-system">
