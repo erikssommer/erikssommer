@@ -21,24 +21,16 @@
     <img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 </a>
 
-<a href="https://github.com/erikssommer/ssl-autoencoder-mnist">
-    <img align="left" alt="Scikit Learn" width="46px" src="https://iconape.com/wp-content/files/mw/351103/png/scikit-learn-logo.png" />
-</a>
-
-<a href="https://github.com/erikssommer/jax-playground">
-    <img align="left" alt="Jax" width="46px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" />
-</a>
-
 <a href="https://github.com/erikssommer/ai-methods">
     <img align="left" alt="Numpy" width="26px" src="https://img.icons8.com/color/48/000000/numpy.png" />
 </a>
 
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
-    <img align="left" alt="Pandas" width="26px" src="https://img.icons8.com/color/48/000000/pandas.png" />
+    <img align="left" alt="Polars" width="26px" src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" />
 </a>
 
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
-    <img align="left" alt="Polars" width="26px" src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" />
+    <img align="left" alt="Pandas" width="26px" src="https://img.icons8.com/color/48/000000/pandas.png" />
 </a>
 
 <a href="https://github.com/erikssommer/geolife-gps-trajectory-dataset-mongodb">
