@@ -1,7 +1,7 @@
 **About Me** 
 - 👨‍💻 Data science consultant currently on a project at Aker BP ASA
 - 👨‍🎓 Master of Science in Computer Science - Artificial Intelligence, NTNU Trondheim, 2024
-- 🎓 Bachelor of Science in Computer Engineering, Oslo Metropolitan University, 2022
+- 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2022
 
 **GitHub Certifications**
 - 🐙 GitHub Foundations ([certificate](https://www.credly.com/badges/1da515bb-de5d-4c76-8578-ecb67e31e562/public_url))
