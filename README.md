@@ -42,6 +42,10 @@
     <img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
 </a>
 
+<a href="https://github.com/erikssommer/ai-programming">
+    <img align="left" alt="Streamlit" width="26px" src="https://img.icons8.com/color/48/000000/streamlit.png" />
+</a>
+
 <a href="https://github.com/erikssommer/car-configuration-system">
     <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 </a>
